@@ -1,0 +1,4 @@
+deep-translator
+gTTS
+pyperclip
+playsound==1.2.2
